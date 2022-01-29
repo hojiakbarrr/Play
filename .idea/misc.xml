@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/Play/app/src/main/res/drawable/play.xml" value="0.1185" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Play/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/user/AndroidStudioProjects/Play/app/src/main/res/layout/activity_main2.xml" value="0.46875" />
-        <entry key="..\:/Users/user/AndroidStudioProjects/Play/app/src/main/res/layout/activity_main3.xml" value="0.1024390243902439" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/Play/app/src/main/res/layout/activity_main3.xml" value="0.25" />
       </map>
     </option>
   </component>
